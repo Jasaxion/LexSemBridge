@@ -1,0 +1,7 @@
+beir
+wandb
+mteb>=1.14.15
+accelerate>=0.34.2
+evaluate>=0.4.2
+FlagEmbedding>=1.2.11
+transformers>=4.44.2

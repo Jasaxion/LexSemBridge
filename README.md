@@ -177,5 +177,10 @@ We used 8 X A100 to complete the fine-tuning training of the model. We save and 
 If this work is helpful, please kindly cite as:
 
 ```
-<Pending BibTeX entry addition
+@article{zhan2025lexsembridge,
+  title={LexSemBridge: Fine-Grained Dense Representation Enhancement through Token-Aware Embedding Augmentation},
+  author={Zhan, Shaoxiong and Lin, Hai and Tan, Hongming and Cai, Xiaodong and Zheng, Hai-Tao and Su, Xin and Shan, Zifei and Liu, Ruitong and Kim, Hong-Gee},
+  journal={arXiv preprint arXiv:2508.17858},
+  year={2025}
+}
 ```

@@ -168,5 +168,10 @@ torchrun --nproc_per_node 8 \
 如果本项目对您有帮助，请引用：
 
 ```
-<待添加 BibTeX 条目>
+@article{zhan2025lexsembridge,
+  title={LexSemBridge: Fine-Grained Dense Representation Enhancement through Token-Aware Embedding Augmentation},
+  author={Zhan, Shaoxiong and Lin, Hai and Tan, Hongming and Cai, Xiaodong and Zheng, Hai-Tao and Su, Xin and Shan, Zifei and Liu, Ruitong and Kim, Hong-Gee},
+  journal={arXiv preprint arXiv:2508.17858},
+  year={2025}
+}
 ```
